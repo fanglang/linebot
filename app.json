@@ -1,0 +1,8 @@
+{
+  "name": "Linebot",
+  "description": "Linebot",
+  "image": "heroku/python",
+  "repository": "https://github.com/fanglang/",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
